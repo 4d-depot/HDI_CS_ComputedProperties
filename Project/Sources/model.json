@@ -1,0 +1,29 @@
+{
+	"dataClasses":
+	{
+		"geometry":
+		{
+			"attributes": 
+			{
+				"surface":
+				{
+					"kind": "calculated",
+					"type": "number"
+				},
+				"perimeter":
+				{
+					"kind": "calculated",
+					"type": "number"
+				},
+				"ratio":
+				{
+					"kind": "calculated",
+					"type": "number"
+				}
+			}
+		}
+	}
+}
+
+
+
